@@ -11,7 +11,7 @@ class _DetilScreenState extends State<DetilScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(body: Column(children: [
-      Center(child: Text("DetilScreen"))
+      Center(child: Text("DetilScreen222"))
     ],),);
   }
 }
